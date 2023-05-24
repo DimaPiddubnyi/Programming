@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('http://fonts.cdnfonts.com/css/gotham-rounded');
+
+header{
+    height: 80px;
+}
+.container{
+    width: 100%;
+    max-width: 1280px;
+    position: relative;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    float: left;
+    margin-top: 30px;
+}
+.menu{
+    font-size: 18px;
+}
+ul {
+    list-style: none; 
+    margin: 0; 
+    padding-left: 233px;
+  }
+a {text-decoration: none;
+    margin: 66px; 
+    color: #399c83; 
+}
+.a{
+    font-family: 'Roboto', sans-serif; 
+    width: 1280px; 
+    background-color: #f5f6f7; 
+}
+.b{
+    padding-top: 55px;
+    font-size: 22px;
+    color:#373737;
+    
+    }
+.c{
+    font-size: 16px;
+    color:#373737;
+    margin-top: 32px;
+    margin-right: 108px;
+    margin-left: 113px;
+}
+.d{
+    width: 190px; 
+    height: 50px; 
+    background: #16a085; 
+    color: white; 
+    outline: none; 
+    text-decoration: none; 
+    border: none;
+    margin-top: 50px;
+    margin-bottom: 94px;
+    font-family: 'Gotham Rounded', sans-serif;
+}
+.e{
+    width: 100%;
+    max-width: 1280px;
+    position: relative;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 45px;
+    margin-bottom: 48px;
+    color:#373737;
+    text-align: right;
+    background-color: #ffffff;
+    padding-right: 150px;
+}

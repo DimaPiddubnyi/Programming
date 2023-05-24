@@ -1,0 +1,140 @@
+@import url('http://fonts.cdnfonts.com/css/verdana');
+div.background {
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+  }
+  
+  .a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+    z-index: -1;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #00000000;
+}
+
+li {
+    float: right;
+    font-family: 'Verdana', sans-serif;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 12px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 22px;
+  font-family: 'Verdana', sans-serif;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+.ab p{
+	text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-family: 'Verdana', sans-serif;
+}
+.abc p{
+	text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-family: 'Verdana', sans-serif;
+}
+.abcd p{
+	text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-family: 'Verdana', sans-serif;
+}
+.abcde p{
+	text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-family: 'Verdana', sans-serif;
+}
+.ab{
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 154px;
+
+}
+.abc{
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 500px;
+    height: 300px; 
+}
+.abcde{
+    margin-top: 80px;
+    margin-left: 154px;
+    width: 500px;
+    height: 300px;
+    
+}
+.abcd{
+    margin-top: 80px;
+    margin-left: 60px;
+    width: 500px;
+    height: 300px;
+}
+.b{
+    display: flex;
+}
+.c{
+    display: flex;
+}
+.aa{
+    width: 52px;
+    height: 56px;
+}
+.cc{
+    width: 100%;
+    max-width: 1280px;
+    position: absolute;
+    margin: 0 auto;
+    font-family: 'Verdana', sans-serif;
+    margin-top: 140px;
+    margin-bottom: 48px;
+    color:#fff;
+    text-align: right;
+    padding-right: 150px;
+}
+a {
+    color: #fff;  
+    text-decoration: none;
+   }
+   a:hover {
+    color: #f26522; 
+    text-decoration: none; 
+   }

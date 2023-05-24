@@ -1,0 +1,34 @@
+
+#container {
+  position: relative;
+  margin-top: 20px;
+}
+
+#priceInput {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+#priceInput:focus {
+  outline-color: green;
+}
+
+.error {
+  color: red;
+  margin-top: 5px;
+}
+
+.priceOutput {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.priceOutput span {
+  font-weight: bold;
+}
+
+.closeBtn {
+  cursor: pointer;
+  margin-left: 5px;
+  font-weight: bold;
+}
